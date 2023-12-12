@@ -1,0 +1,507 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header {
+    background-color: rgba(59, 131, 246, 0.205);
+    font-size: 30px;
+    font-family: cooper;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-title {
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: cooper;
+    padding-right: 3em;
+    margin: auto;
+}
+
+.header-title:hover {
+    color: #a95e5e;
+}
+
+.header img {
+    display: flex;
+    height: 100px;
+    width: 100px;
+    background-color: transparent;
+}
+
+nav .item {
+    gap: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 30px 40px;
+    text-align: center;
+    align-items: center;
+    color: rgb(168, 126, 42);
+    background-color: rgba(185, 203, 220, 0.563);
+    font-size: 2em;
+    justify-content: center;
+    font-family: cooper;
+}
+
+nav .item-1:hover {
+    color: black;
+}
+
+nav .item-2:hover {
+    color: black;
+}
+
+nav .item-3:hover {
+    color: black;
+}
+
+nav .item-4:hover {
+    color: black;
+}
+
+.menu-item {
+    align-items: end;
+}
+
+.hb-img {
+    width: 205vh;
+    height: auto;
+    background-color: #834e4e;
+    justify-content: center;
+}
+
+.bg-1 {
+    background-color: rgba(215, 198, 232, 0.855);
+    width: 400px;
+    height: 700px;
+    border-radius: 20px;
+}
+
+.bg-1:hover {
+    background-color: rgba(226, 217, 236, 0.867);
+}
+
+.button-44 {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(209, 206, 206);
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 30px 125px;
+    text-align: center;
+}
+
+.button-44:hover {
+    background-color: #fff;
+}
+
+.main {
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.p1 {
+    width: 450px;
+    height: 600px;
+
+
+}
+
+.img-1 {
+    width: 400px;
+    height: 400px;
+    margin-top: 0;
+
+}
+
+.sec1-1 {
+    font-size: 24px;
+    font-family: poppins;
+    font-weight: 500;
+    text-align: center;
+}
+
+.sec1-2 {
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    text-align: center;
+    padding-left: 35%;
+}
+
+.sec1-3 {
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    justify-items: center;
+}
+
+.button-1 {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(187, 187, 239);
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 30px 125px;
+    text-align: center;
+}
+
+.button-1:hover {
+    background-color: rgb(209, 206, 206)
+}
+
+.p2 {
+    width: 450px;
+    height: 600px;
+
+}
+
+.img-2 {
+    width: 400px;
+    height: 400px;
+    margin-top: 0;
+}
+
+.sec2-1 {
+    font-size: 24px;
+    font-family: poppins;
+    font-weight: 500;
+    text-align: center;
+}
+
+.sec2-2 {
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    text-align: center;
+    padding-left: 35%;
+}
+
+.sec2-3 {
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    justify-items: center;
+}
+
+.p-3 {
+    width: 450px;
+    height: 600px;
+
+
+}
+
+.img-3 {
+    width: 400px;
+    height: 400px;
+    margin-top: 0;
+}
+
+.sec3-1 {
+    font-size: 24px;
+    font-family: poppins;
+    font-weight: 500;
+    text-align: center;
+}
+
+
+.sec3-2 {
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    text-align: center;
+    padding-left: 35%;
+}
+
+.sec3-3 {
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    justify-items: center;
+
+}
+
+.b1 {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 1000px;
+    height: 1000px;
+    justify-content: center;
+    border-radius: 10px;
+    margin: 0px auto;
+
+}
+
+.sec-3-1 {
+    height: 700px;
+    width: 1000px;
+    margin: auto;
+}
+
+.sec31-1 {
+    font-size: 34px;
+    font-family:cooper;
+    font-weight: 500;
+    text-align: center;
+}
+
+.sec1-11 {
+    font-size: 24px;
+    font-family: poppins;
+    font-weight: 500;
+    text-align: center;
+}
+
+.sec1-22 {
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    text-align: center;
+    padding-left: 35%;
+}
+
+.sec1-33 {
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    justify-items: center;
+}
+
+
+.bg-3 {
+    background-color: rgba(215, 198, 232, 0.855);
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.bg-31:hover {
+    background-color: rgba(192, 184, 202, 0.867);
+}
+
+.main-3 {
+    display: flex;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+}
+
+
+.sec41 {
+    font-size: 24px;
+    font-family: poppins;
+    font-weight: 500;
+    text-align: center;
+}
+
+.sec42 {
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    text-align: center;
+    padding-left: 35%;
+}
+
+.sec43 {
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    justify-items: center;
+}
+
+.sec51 {
+    font-size: 24px;
+    font-family: poppins;
+    font-weight: 500;
+    text-align: center;
+}
+
+.sec52 {
+    font-size: 20px;
+    font-weight: 500;
+    font-style: italic;
+    text-align: center;
+    padding-left: 35%;
+}
+
+.sec53 {
+    font-size: 24px;
+    font-weight: 700;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    justify-items: center;
+}
+
+.p {
+    background-color: #f7f3f8;
+    border-radius: 15px;
+}
+
+.heading-5 {
+    font-size: 40px;
+    font-weight: 900;
+    font-family: 'Ysabeau Office', sans-serif;
+}
+
+.heading-51 {
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Ysabeau Office', sans-serif;
+
+}
+
+.heading-52 {
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Ysabeau Office', sans-serif;
+
+}
+
+
+.sec32-2 {
+    font-size: 30px;
+    font-weight: 800;
+    font-style: italic;
+    text-align: center;
+    padding-left: 40%;
+}
+
+.sec33-3 {
+    font-size: 34px;
+    font-weight: 700;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-right: 2%;
+
+}
+
+
+.bg-31:hover {
+    background-color: rgba(192, 184, 202, 0.867);
+}
+
+.button-3 {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(149, 149, 237);
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 50px 410px;
+}
+
+.button-3:hover {
+    background-color: #8188a1;
+}
+
+.b1 {
+    display: flex;
+    flex-wrap: nowrap;
+    width: 1000px;
+    height: 1000px;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.section-5 {
+    background: url(./IMG/footer-bg.jpg);
+    height: 690px;
+    width: auto;
+    align-content: center;
+    justify-content: center;
+}
+
+
+.button-3 {
+    width: 150px;
+    height: 50px;
+    background-color: rgb(149, 149, 237);
+    border: 1px solid black;
+    border-radius: 20px;
+    margin: 400px 410px;
+}
+
+.button-3:hover {
+    background-color: #8188a1;
+}
+
+.button-5 {
+    width: 400px;
+    height: 50px;
+    border-radius: 22px;
+    background-color: #f5f0f0;
+
+}
+
+.sec51-1 {
+    font-size: 60px;
+    font-family: poppins;
+    font-weight: 500;
+    text-align: center;
+    padding-left: 30%;
+    padding-top: 16%;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    padding-right: 12em;
+}
+
+
+.sec52-2 {
+    font-size: 40px;
+    font-weight: 800;
+    width: 40%;
+    font-style: italic;
+    text-align: center;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    padding-left: 8em;
+    margin-bottom: 18em;
+
+}
+
+.footer {
+    background-color: rgba(59, 131, 246, 0.116);
+    height: 450px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button-footer {
+    width: 300px;
+    height: 50px;
+    background-color: #fff;
+    border-radius: 24px;
+}
+
+.button-footer:hover {
+    background-color: rgba(59, 131, 246, 0);
+}

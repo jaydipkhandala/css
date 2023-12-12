@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.box{
+   margin: auto;
+    max-width: 640px;
+    max-height: 640px;
+    margin-top: 40px;
+
+    
+}
+
+.black{
+    width: 80px;
+    height: 80px;
+    background-color:rgb(131, 137, 139);
+    float: left;
+    color: black;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.black:hover{
+    transform: scale(1.1);
+    transition: all 1ms linear;
+}
+.white:hover{
+    transform: scale(1.1);
+    transition: all 1ms linear;
+}
+
+.white{
+    width: 80px;
+    height: 80px;
+    background-color:rgb(246, 234, 234);
+    float:left;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
